@@ -1,0 +1,7 @@
+streamlit
+pystac-client
+boto3
+python-dotenv
+numpy
+matplotlib
+rasterio
